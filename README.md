@@ -17,7 +17,7 @@ Here's the papers I wanted to look at this semester.
 
 1. Kingma, D. P., and Welling, M. (2014). [*Auto-Encoding Variational Bayes*](https://arxiv.org/abs/1312.6114). In *International Conference on Learning Representations*.
 
-1. Kucukelbir, A., Tran, D., Ranganath, R., Gelman, A., and Blei, D. M. (2017). *Automatic Differentiation Variational Inference*. *Journal of Machine Learning Research}, *18}, 1–45.
+1. Kucukelbir, A., Tran, D., Ranganath, R., Gelman, A., and Blei, D. M. (2017). [*Automatic Differentiation Variational Inference*](http://jmlr.org/papers/v18/16-107.html). *Journal of Machine Learning Research*, 18, 1–45.
   
 1. Li, Y., Swersky, K., and Zemel, R. (2015). [*Generative Moment Matching Networks*](http://proceedings.mlr.press/v37/li15.html). In *International Conference on Machine Learning*.
 
