@@ -6,7 +6,9 @@ Here's the papers I wanted to look at this semester.
 1. Arjovsky, M., Chintala, S., and Bottou, L. (2017). [*Wasserstein GAN*](http://proceedings.mlr.press/v70/arjovsky17a.html). In *International Conference on Machine Learning*.
 
 1. Blundell, C., Cornebise, C., Kavukcuoglu, K., and Wierstra, D. (2015). [*Weight Uncertainty in Neural Networks*](http://proceedings.mlr.press/v37/blundell15.html). In *International Conference on Machine Learning*.
-  
+
+1. Deng, Z., Zhang, H., Liang, X., Yang, L., Xu, S., Zhu, J., and Xing, E. P. (2017) [*Structured Generative Adversarial Networks*](https://papers.nips.cc/paper/6979-structured-generative-adversarial-networks). In *Neural Information Processing Systems*.
+
 1. Dziugaite, G. K., Roy, D. M., and Ghahramani, Z. (2015). [*Training generative neural networks via Maximum Mean Discrepancy optimization*](http://auai.org/uai2015/proceedings/papers/230.pdf). In *Uncertainty in Artificial Intelligence*.
 
 1. Gal, Y., and Ghahramani, Z. (2016). [*Dropout as Bayesian Approximation: Representing Model Uncertainty in Deep Learning*](http://proceedings.mlr.press/v48/gal16.html). In *International Conference on Machine Learning*.
